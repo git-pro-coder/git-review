@@ -19,9 +19,7 @@ colors = np.random.randint(0,5,N)
 
 # Create a scatter plot
 plt.scatter(data1, data2, c=colors, cmap=cmap)
-
 # Add a color bar
 plt.colorbar()
-
 # Show the plot
 plt.show()
