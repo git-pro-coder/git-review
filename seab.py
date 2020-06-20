@@ -7,6 +7,8 @@ def sinplot(flip = 1):
 import seaborn as sb
 sb.set()
 sinplot()
+sb.set_style("white")
+sb.despine()
 
 
 
