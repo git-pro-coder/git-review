@@ -9,8 +9,4 @@ sb.set()
 sinplot()
 sb.set_style("white")
 sb.despine()
-
-
-
-
 plt.show()
